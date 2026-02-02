@@ -47,7 +47,7 @@ git clone https://github.com/ddarkochidori/phishshield.git
 cd dosepish
 
 # Dar permisos de ejecución
-chmod +x phishshield.sh
+chmod +x dosepish.sh
 
 # Ejecutar
-./phishshield.sh
+./dosepish.sh
